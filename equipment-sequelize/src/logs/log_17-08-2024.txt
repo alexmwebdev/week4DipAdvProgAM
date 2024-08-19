@@ -1,0 +1,9 @@
+::1 - 17-08-2024 - Import all equipment
+::1 - 17-08-2024 - Import all equipment
+::1 - 17-08-2024 - Import all equipment
+::1 - 17-08-2024 - Import all equipment
+::1 - 17-08-2024 - Import all equipment
+::1 - 17-08-2024 - Import all equipment
+::1 - 17-08-2024 - Display all equipment
+::1 - 17-08-2024 - Display Equipment for id: 2
+::1 - 17-08-2024 - Delete Equipment for id:2
